@@ -1,3 +1,6 @@
 [submodule "Pydiction"]
 	path = Pydiction
 	url = git@github.com:vim-scripts/Pydiction.git
+[submodule "AutoComplPop"]
+	path = AutoComplPop
+	url = git@github.com:vim-scripts/AutoComplPop.git
