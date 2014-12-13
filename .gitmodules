@@ -1,0 +1,3 @@
+[submodule "Pydiction"]
+	path = Pydiction
+	url = git@github.com:vim-scripts/Pydiction.git
