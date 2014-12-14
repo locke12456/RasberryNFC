@@ -7,3 +7,6 @@
 [submodule "pyflakes"]
 	path = pyflakes
 	url = git@github.com:kevinw/pyflakes.git
+[submodule "RaspberryBoost"]
+	path = RaspberryBoost
+	url = git@github.com:locke12456/RaspberryBoost.git
